@@ -1,0 +1,48 @@
+
+employees {
+    display: block;
+    margin: 20px;
+}
+
+employee {
+    display: block;
+    margin-bottom: 20px;
+}
+
+
+name {
+    font-weight: bold;
+}
+
+
+phones {
+    display: block;
+    margin-top: 10px;
+}
+
+
+phone {
+    display: block;
+    margin-bottom: 5px;
+}
+
+addresses {
+    display: block;
+    margin-top: 10px;
+}
+
+address {
+    display: block;
+    margin-bottom: 10px;
+}
+
+street, building, number, region, city, country {
+    display: block;
+}
+
+
+email {
+    display: block;
+    margin-top: 10px;
+    font-style: italic;
+}

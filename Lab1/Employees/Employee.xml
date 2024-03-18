@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="./employee.css" ?>
+<employees>
+    <employee>
+        <name>Mohamed Torkey</name>
+        <phones>
+            <phone type="home">555-123-4567</phone>
+            <phone type="work">555-987-6543</phone>
+            <phone type="mobile">555-555-5555</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>Main Street</street>
+                <building>Building 10</building>
+                <number>123</number>
+                <region>East</region>
+                <city>Cityville</city>
+                <country>USA</country>
+            </address>
+        </addresses>
+        <email>mohamed.torkey@23.com</email>
+    </employee>
+   
+    <employee>
+        <name>Alice Johnson</name>
+        <phones>
+            <phone type="work">555-111-2222</phone>
+            <phone type="mobile">555-333-4444</phone>
+            <phone type="mobile">555-555-5555</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>First Avenue</street>
+                <building>Building 20</building>
+                <number>456</number>
+                <region>West</region>
+                <city>Townsville</city>
+                <country>Canada</country>
+            </address>
+        </addresses>
+        <email>alice.johnson@32.com</email>
+    </employee>
+    
+    <employee>
+        <name>John Doe</name>
+        <phones>
+            <phone type="home">555-111-2222</phone>
+            <phone type="work">555-333-4444</phone>
+            <phone type="mobile">555-555-5555</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>Main Street</street>
+                <building>Building 20</building>
+                <number>456</number>
+                <region>West</region>
+                <city>Citytown</city>
+                <country>USA</country>
+            </address>
+        </addresses>
+        <email>john.doe@32.com</email>
+    </employee>    
+</employees>

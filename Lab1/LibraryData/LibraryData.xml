@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="./style.css" ?>
+<library>
+  <location>Central Library, Main Street</location>
+  <description>A vast collection of books covering various genres.</description>
+  <books>
+    <book>
+      <title>The Great Gatsby</title>
+      <ISBN>9780743273565</ISBN>
+      <Author>F. Scott Fitzgerald</Author>
+      <preface>
+       
+          The Great Gatsby is a novel by American author F. Scott Fitzgerald. First published in 1925, 
+          the story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic 
+          passion and obsession with the beautiful former debutante Daisy Buchanan.
+      
+      </preface>
+      <parts>
+        <part>
+          <title>Part 1: The Story Begins</title>
+          <chapters>
+            <chapter>
+              <title>Chapter 1: Nick Carraway's Arrival</title>
+              <summary>
+               
+                  The novel begins with the narrator, Nick Carraway, introducing himself and recounting 
+                  how he ended up in New York. He rents a small house in West Egg, Long Island, situated 
+                  next to the mansion of Jay Gatsby, a mysterious and wealthy man.
+              
+              </summary>
+              <sections>
+                <p>
+                  
+                    Nick describes the various characters inhabiting the area and his impressions of them, 
+                    including his cousin Daisy and her husband Tom Buchanan, who live across the bay in East Egg.
+                 
+                </p>
+                
+                <p>
+                  
+                  Nick describes the various characters inhabiting the area and his impressions of them, 
+                  including his cousin Daisy and her husband Tom Buchanan, who live across the bay in East Egg.
+               
+                </p>
+              </sections>
+            </chapter>
+          </chapters>
+        </part>
+      </parts>
+    </book>
+  </books>
+</library>
+

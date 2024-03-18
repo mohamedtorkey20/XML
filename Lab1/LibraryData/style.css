@@ -1,0 +1,94 @@
+
+library {
+  display: block;
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+
+location {
+  font-weight: bold;
+}
+
+description {
+  margin-top: 10px;
+}
+
+books {
+  display: block;
+}
+
+
+book {
+  display: block;
+  margin-top: 20px;
+}
+
+
+title {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+ISBN {
+  font-style: italic;
+}
+
+
+Author {
+  font-style: italic;
+}
+
+
+preface {
+  display: block;
+  margin-top: 10px;
+}
+
+parts {
+  display: block;
+  margin-top: 10px;
+}
+
+
+part {
+  display: block;
+  margin-top: 10px;
+}
+
+
+part > title {
+  font-weight: bold;
+}
+
+chapters {
+  display: block;
+}
+
+
+chapter {
+  display: block;
+  margin-top: 10px;
+}
+
+
+chapter > title {
+  font-weight: bold;
+}
+
+
+summary {
+  margin-top: 5px;
+}
+
+
+sections {
+  display: block;
+  margin-top: 5px;
+}
+
+
+p {
+  margin-bottom: 10px;
+}
